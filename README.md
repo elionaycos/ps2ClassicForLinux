@@ -23,7 +23,7 @@ Para compilar o ps2classic a partir do código-fonte, siga estas etapas:
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/ps2classic.git
+git clone https://github.com/elionaycos/ps2ClassicForLinux
 ```
 
 2. Navegue até o diretório do repositório:
