@@ -55,5 +55,6 @@ Consulte a seção de ajuda (`./ps2classic`) para obter mais informações sobre
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) ou enviar solicitações de recebimento (pull requests) para melhorar este projeto.
 
 
-
+## Fonte
+https://github.com/tszentendrei/ps2classic
 ---
