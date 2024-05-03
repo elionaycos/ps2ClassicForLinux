@@ -45,7 +45,7 @@ Isso irá gerar o executável `ps2classic`.
 Para usar o ps2classic, você pode executar o comando apropriado no terminal, conforme necessário. Aqui está um exemplo de uso para decriptar um arquivo VME:
 
 ```bash
-.//ps2classic vd cex ecc INPUT_FILE_VME OUTPUT_FILE_VME 
+./ps2classic vd cex ecc INPUT_FILE_VME OUTPUT_FILE_VME 
 ```
 
 Consulte a seção de ajuda (`./ps2classic`) para obter mais informações sobre as opções disponíveis.
